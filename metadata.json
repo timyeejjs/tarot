@@ -1,0 +1,5 @@
+{
+  "name": "AI 塔羅占卜師",
+  "description": "一個結合 AI 技術的塔羅牌占卜應用，提供五張牌陣抽取與深度 AI 解牌服務。",
+  "requestFramePermissions": []
+}
